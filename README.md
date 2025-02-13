@@ -1,5 +1,7 @@
 # The Green Lion
 
+Willkommen zu einem Ausflug in die Welt der Alchemie - des Software Engineering und der Programmierung.
+
 ## Minikube Cluster
 
 Um das "richtige" Cloud-Feeling zu simulieren, laufen alle Services in einem Kubernetes-Cluster den ich lokal mit Minikube aufsetze.
